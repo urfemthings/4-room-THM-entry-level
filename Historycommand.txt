@@ -1,0 +1,10 @@
+  475  cd
+  476  curl -i "http://10.48.139.172/"
+  477  curl -i "http://10.48.139.172/index.action"
+  478  curl -i "http://10.48.139.172/orders/"
+  479  curl -i "http://10.48.139.172/Office/graph.php"
+  480  curl -i "http://10.48.139.172/office/graph.php"
+  481  curl -i -X POST "http://10.48.139.172/Office/graph.php"
+  482  clear
+  483  history
+~ $
